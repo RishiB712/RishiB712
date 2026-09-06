@@ -1,4 +1,4 @@
-# Hi there, I'm Rishi Bhuva! 👋
+# Hi there, I'm Rishi Bhuva!
 
 I'm a student at Marwadi University who thrives on tackling complex, challenging problems. Whether it's writing clean object-oriented code or building modern web applications, I love diving into the technical details and optimizing systems from the ground up.
 
